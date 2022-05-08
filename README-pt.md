@@ -1,21 +1,21 @@
-# My repositories
+# Meu repositório
 
-Also in portuguese [here](README-pt.md)
+Também em ingles [aqui](README.md)
 
-**This repo is used to list all my learn-in-public projects.**
+**Esse repositório é usado para listar todo os projetos que eu fiz e deixei em público.**
 
 ## <a href="https://github.com/joaoguilherme1/multi-container-docker" >multi-container-docker</a>
 
-- Title:
+- Título:
   - Multi container javascript application
-- Languages:
+- Linguagens:
   - Javascript
-- Library
+- Bibliotecas:
   - Express
-- Database:
+- Banco e dados:
   - Redis
   - PostgresSQL
-- Tools:
+- Ferramentas:
   - Docker
 - CI/CD:
   - GitHub Actions
@@ -23,17 +23,17 @@ Also in portuguese [here](README-pt.md)
 
 ## <a href="https://github.com/joaoguilherme1/recipe-app-api" >recipe-app-api</a>
 
-- Title:
-  - App api used to store recipes
-- Languages:
+- Título:
+  - Api usada para armazenar receitas
+- Linguagens:
   - Python
-- Library:
+- Bibliotecas:
   - Django
   - Django REST Framework
-- Database:
+- Banco de dados:
   - Redis
   - PostgresSQL
-- Tools:
+- Ferramentas:
   - Docker
 - CI/CD:
   - GitHub Actions
